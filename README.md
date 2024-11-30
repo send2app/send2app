@@ -1,7 +1,7 @@
 Send2App
 App Notification
 
-[blog](https://github.com/user-attachments/assets/432595a7-a26c-4c17-b9ee-46e00a0a1efc)
+1[!blog](https://github.com/user-attachments/assets/432595a7-a26c-4c17-b9ee-46e00a0a1efc)
 
 Introduction ⚡
 In today’s mobile applications, effective communication with users is crucial. The Send2App Flutter package allows developers to seamlessly integrate custom notifications, enhancing user engagement through various notification types such as text, images, URLs, rich cards, suggestions, and live activities.
@@ -24,7 +24,7 @@ Send2App offers a variety of notification types, each designed to enhance user e
 
 1. Text Notifications
 Description: A Text Notification is a simple notification that displays a title and a brief message. It is used to convey straightforward information to the user and when the user clicks on the notification, it can redirect them to a specific URL in a web browser.
-[Text](https://github.com/user-attachments/assets/38087b81-c0fb-49fc-948d-0548734066ef)
+![1Text](https://github.com/user-attachments/assets/38087b81-c0fb-49fc-948d-0548734066ef)
 
 
 2). Image Notification:
@@ -34,7 +34,7 @@ Description: An Image Notification includes an image along with a title and a me
 
 3). URL Notification:
 Description: A URL Notification is a notification that includes a link to a specific webpage. It is often used for promotional content, articles, or updates that the user can read more about and when clicking the notification will open the specified URL in a web browser.
-[Url](https://github.com/user-attachments/assets/0867a961-0e6e-4abc-a057-7635c76d4814)
+![1Url](https://github.com/user-attachments/assets/0867a961-0e6e-4abc-a057-7635c76d4814)
 
 
 4). Rich Card Notification:
@@ -44,7 +44,7 @@ Description: A Rich Card Notification provides a more detailed view, often inclu
 
 5). Suggestion Notification:
 Description: A Suggestion Notification provides recommendations or suggestions to the user based on their preferences or previous interactions. It can include multiple options for users to choose from.
-[Suggestion](https://github.com/user-attachments/assets/95286ec0-f4d8-4304-9405-b5632b9c54d5)
+![1Suggestion](https://github.com/user-attachments/assets/95286ec0-f4d8-4304-9405-b5632b9c54d5)
 
 
 6). Live Activity Notification:
@@ -53,17 +53,17 @@ Description: Live Activity Notifications provide real-time updates directly on t
 · Types of Live Activity Notifications:
 👉 Air India Notification Update:
 Description: Displays real-time flight status updates, including departure and arrival times.
-[Air_India](https://github.com/user-attachments/assets/9f49012d-5d39-4e6b-8826-9448d3856b1e)
+![1Air_India](https://github.com/user-attachments/assets/9f49012d-5d39-4e6b-8826-9448d3856b1e)
 
 
 👉 Match Score Notification Update:
 Description: Shows live scores and updates for ongoing sports matches.
-[Match](https://github.com/user-attachments/assets/8f6489a6-1659-47c6-88fb-8d6a67a887f3)
+1[!Match](https://github.com/user-attachments/assets/8f6489a6-1659-47c6-88fb-8d6a67a887f3)
 
 
 👉 Bus Ticket Notification Update:
 Description: A Bus Ticket Reminder Live Activity Notification serves as a reminder for passengers about their upcoming bus journey and other details.
-[Ticket](https://github.com/user-attachments/assets/bacbc773-582e-49be-840d-e57689d6207a)
+1[!Ticket](https://github.com/user-attachments/assets/bacbc773-582e-49be-840d-e57689d6207a)
 
 
 
