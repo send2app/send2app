@@ -1,7 +1,7 @@
 Send2App
 App Notification
 
-1[!blog](https://github.com/user-attachments/assets/432595a7-a26c-4c17-b9ee-46e00a0a1efc)
+![1blog](https://github.com/user-attachments/assets/432595a7-a26c-4c17-b9ee-46e00a0a1efc)
 
 Introduction ⚡
 In today’s mobile applications, effective communication with users is crucial. The Send2App Flutter package allows developers to seamlessly integrate custom notifications, enhancing user engagement through various notification types such as text, images, URLs, rich cards, suggestions, and live activities.
@@ -58,12 +58,12 @@ Description: Displays real-time flight status updates, including departure and a
 
 👉 Match Score Notification Update:
 Description: Shows live scores and updates for ongoing sports matches.
-1[!Match](https://github.com/user-attachments/assets/8f6489a6-1659-47c6-88fb-8d6a67a887f3)
+![1Match](https://github.com/user-attachments/assets/8f6489a6-1659-47c6-88fb-8d6a67a887f3)
 
 
 👉 Bus Ticket Notification Update:
 Description: A Bus Ticket Reminder Live Activity Notification serves as a reminder for passengers about their upcoming bus journey and other details.
-1[!Ticket](https://github.com/user-attachments/assets/bacbc773-582e-49be-840d-e57689d6207a)
+![1Ticket](https://github.com/user-attachments/assets/bacbc773-582e-49be-840d-e57689d6207a)
 
 
 
