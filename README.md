@@ -23,6 +23,7 @@ Suggestion Notifications: Recommendations based on user preferences.
 Live Activity Notifications: Real-time updates on the user’s Lock Screen or Notification Center.
 
 Custom Notifications Types 🔔
+
 Send2App offers a variety of notification types, each designed to enhance user experience. Here’s a closer look at what you can achieve:
 
 1. Text Notifications
