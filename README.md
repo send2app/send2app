@@ -3,7 +3,9 @@ Custom Notifications: Enhance User Engagement with Send2App
 ![1blog](https://github.com/user-attachments/assets/432595a7-a26c-4c17-b9ee-46e00a0a1efc)
 
 Introduction for notifications app⚡
-The Send2App Flutter package enhances user engagement through effective notifications on Android and iPhone platforms. By offering custom notifications and a comprehensive notification history, users can easily access important alerts. This ensures timely communication and improves overall user satisfaction.
+The Send2App Flutter package enhances user engagement through effective notifications on Android and iPhone platforms.
+By offering custom notifications and a comprehensive notification history, users can easily access important alerts.
+This ensures timely communication and improves overall user satisfaction.
 
 App Notification Features 👇
 Message Notifications: Simple alert with a title and message.
